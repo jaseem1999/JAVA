@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost" name="Tomcat v8.5 Server at localhost" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="6">
+    <list key="modules" value0="SampleProject::org.eclipse.jst.jee.server:SampleProject::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost (2)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost (2)" name="Tomcat v8.5 Server at localhost (2)" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="2">
+    <list key="modules" value0="SampleProject::org.eclipse.jst.jee.server:SampleProject::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost (3)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost (3)" name="Tomcat v8.5 Server at localhost 5" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="SampleProject::org.eclipse.jst.jee.server:SampleProject::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost (4)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost (4)" name="Tomcat v8.5 Server at localhost (4)" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="SampleProject::org.eclipse.jst.jee.server:SampleProject::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost (5)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost (5)" name="Tomcat v8.5 Server at localhost (5)" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="SampleProject::org.eclipse.jst.jee.server:SampleProject::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost-config-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost-config" name="Tomcat v8.5 Server at localhost-config" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="SampleProject::org.eclipse.jst.jee.server:SampleProject::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost  5-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost  5" name="Tomcat v8.5 Server at localhost  5" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="SampleProject::org.eclipse.jst.jee.server:SampleProject::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost5-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost5" name="Tomcat v8.5 Server at localhost5" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="SampleProject::org.eclipse.jst.jee.server:SampleProject::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost2000-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost2000" name="Tomcat v8.5 Server at localhost2000" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="SampleProject::org.eclipse.jst.jee.server:SampleProject::jst.web::3.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost (6)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost (6)" name="Tomcat v8.5 Server at localhost (6)" runtime-id="Apache Tomcat v8.5 (2)" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="demoone::org.eclipse.jst.jee.server:demoone::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost (7)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost (7)" name="Tomcat v8.5 Server at localhost (7)" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="demoone::org.eclipse.jst.jee.server:demoone::jst.web::3.1"/>
+  </server>
+</servers>

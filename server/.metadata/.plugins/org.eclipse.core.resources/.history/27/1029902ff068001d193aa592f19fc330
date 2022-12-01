@@ -1,0 +1,6 @@
+/**
+ * 
+ */
+ 
+ let mail = document.getElementById("exampleInputEmail1").value;
+ let pass = document.getElementById("exampleInputPassword1").value;

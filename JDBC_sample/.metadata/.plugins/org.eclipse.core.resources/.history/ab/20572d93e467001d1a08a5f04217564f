@@ -1,0 +1,43 @@
+package com.jdbc.demo.insertion;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.util.Scanner;
+
+public class Student {
+	Scanner sc = new Scanner(System.in);
+	public static void main(String[] args) {
+		String name = null;
+		int age = 0;
+		String cource = null;
+		Student stdObj = new Student();
+		stdObj.Stddstails(name,age,cource);
+		try {
+			Class.forName("com.mysql.jdbc.Driver");//first step is Loading JDBS Drive
+			String url = "jdbc:mysql://localhost:3306/std_tab";
+			Connection con=DriverManager.getConnection(url, "root","Love1999@MySQL");//Second step is Define the connection {URL PORT and database name ,user name ,password 
+			PreparedStatement stmt=con.prepareStatement("insert into std_details(student_name,std_age,std_cource)values('"+name+"','"+age+"','"+cource+"')");//Create the statement
+			int i = stmt.executeUpdate();//Execute Query  
+			if(i>0) {
+				System.out.println("insertion successfull");
+			}else {
+				System.out.println("Insertion failure");
+			}
+			con.close();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+	void Stddstails(String name,int age,String course) {
+		System.out.println("Enter the name:");
+		name = sc.next();
+		System.out.println("Enter the age:");
+		age = sc.nextInt();
+		System.out.println("Enter the course:");
+		course = sc.next();
+	}
+
+}

@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+ function logg(){
+	let mail = document.getElementById("exampleInputEmail1").value;
+	let pass = document.getElementById("exampleInputPassword1").value;
+	 
+	if(mail ==""){
+		document.getElementById("exampleInputEmail1").style.boxShadow = "0px 0px 7px red";
+	}
+}

@@ -1,0 +1,6 @@
+containers
+ 1. window
+ 2. panel
+ 3. frame 
+ 4. masssage box
+methods of components 
